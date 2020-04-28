@@ -5,7 +5,7 @@ exports.configure = function(env) {
 let configs = {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "!Anthon69",
     "database": "vocab_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
